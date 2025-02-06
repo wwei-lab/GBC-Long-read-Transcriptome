@@ -16,3 +16,8 @@ https://github.com/Magdoll/cDNA_Cupcake/wiki/Cupcake:-supporting-scripts-for-Iso
 
 ### followed by SQANTI3：
 https://github.com/ConesaLab/SQANTI3
+
+### for Interchromosomal fusion transcripts
+We used FusionSeeker (v1.0.1) to identify interchromosomal fusion transcripts. Next, we selected the confident_genefusion_transcript_sequence.fa files and used BLAST to manually verify the correct fusion transcripts.
+
+
