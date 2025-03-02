@@ -5,7 +5,7 @@ we employed the advanced long-read full-length transcriptome sequencing technolo
 
 ![image](https://github.com/user-attachments/assets/2998c0ad-3540-43b1-90a1-efcbc40c88a7)
 
-## Pacbio CCS data prrocessing
+## Pacbio CCS data processing
 
 Refer to the official website and follow the step-by-step process
 ### isoseq3
